@@ -1,5 +1,4 @@
 # This is a leap year calculator done as part of the "100 Days of Code - The Complete Pyton Pro Bootcamp for 2021" course by Dr. Angela Yu.
-# When writing code as part of courses I am taking, I only upload those excercises/projects I can fully understand and finish without checking the solutions.
 # Martin Ignacio Lupa - 24/03/2021.
 
 def is_leap(year):
